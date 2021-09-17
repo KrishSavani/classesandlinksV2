@@ -1,4 +1,4 @@
 # classesandlinksV2
 
-Thanks to Shreesh,Vishesh and Sparsh for helping me
+This is a forked and edited website from https://github.com/sakshamgorey/classesandlinksV2
 
