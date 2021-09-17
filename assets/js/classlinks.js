@@ -84,6 +84,6 @@ function dslab2() {
     var z = window.open(dslab2lms, '_blank');
     var x = window.open(dslab2m, '_blank');
     setTimeout(function() { x.close(); }, 60000);
-};
+}
 
 
