@@ -71,15 +71,17 @@ function ooplab2() {
 };
 
 function dslab1() {
-    var dslab1 = "";
-    var x = window.open(dslab1, '_blank');
-    setTimeout(function() { x.close(); }, 5000);
-
+    var dslab2lms = "http://lms.nuv.ac.in/mod/attendance/view.php?id=4725";
+    var dslab2m = "https://teams.microsoft.com/l/meetup-join/19:XplrFUuR8d1P7PZwjVAA1ycYqRkCUbQookzo9NcNSGg1@thread.tacv2/1627979865422?context=%7B%22Tid%22:%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22,%22Oid%22:%22570183d8-e3e1-4d83-8e4a-79dd2974c5c8%22%7D";
+    var z = window.open(dslab2lms, '_blank');
+    var x = window.open(dslab2m, '_blank');
+    setTimeout(function() { x.close(); }, 60000);
 };
 
-function dslab2() {
-    var dslab2 = "https://teams.microsoft.com/l/channel/19%3Adtvb-JsD1Q70Gh7_WDs_B1bNaoT8cCoRaa99MBQktc81%40thread.tacv2/General?groupId=d19f78c6-3c24-4948-a6ee-dcee2834f7c8&tenantId=d1b99a31-59dc-4039-b9c4-f6166b6bf0a4";
-    var x = window.open(dslab2, '_blank');
-    setTimeout(function() { x.close(); }, 5000);
-
+function dslab1() {
+    var dslab1lms = "http://lms.nuv.ac.in/mod/attendance/view.php?id=4706";
+    var dslab1m = "https://teams.microsoft.com/l/meetup-join/19:K04fmyK0x-qqXG9Qo1vbiE4t66M279S1kQolXMi2lwc1@thread.tacv2/1627976202636?context=%7B%22Tid%22:%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22,%22Oid%22:%22570183d8-e3e1-4d83-8e4a-79dd2974c5c8%22%7D";
+    var z = window.open(dslab1lms, '_blank');
+    var x = window.open(dslab1m, '_blank');
+    setTimeout(function() { x.close(); }, 60000);
 };
