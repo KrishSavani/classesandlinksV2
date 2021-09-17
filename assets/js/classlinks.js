@@ -84,8 +84,8 @@ function os(){
 };
 
 function cn(){
-    var cnlms="http://lms.nuv.ac.in/course/view.php?id=390";
-    var cnm="https://teams.microsoft.com/l/meetup-join/19%3A2U05ZucYTJz5RwtBfU1SmLmLxIv8CZDDU4liG_nu4DA1%40thread.tacv2/1631788441366?context=%7B%22Tid%22%3A%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22%2C%22Oid%22%3A%2222a11445-1cd9-439d-85c6-5f0437f2adbb%22%2C%22MessageId%22%3A%221631788441366%22%7D";
+    var cnlms="http://lms.nuv.ac.in/mod/attendance/view.php?id=4540";
+    var cnm="https://teams.microsoft.com/l/meetup-join/19:dtvb-JsD1Q70Gh7_WDs_B1bNaoT8cCoRaa99MBQktc81@thread.tacv2/1631689493432?context=%7B%22Tid%22:%22d1b99a31-59dc-4039-b9c4-f6166b6bf0a4%22,%22Oid%22:%22570183d8-e3e1-4d83-8e4a-79dd2974c5c8%22%7D";
     var z =window.open(cnlms,'_blank'); 
     var x =window.open(cnm,'_blank');
     setTimeout(function() { x.close(); },60000);
