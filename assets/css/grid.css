@@ -101,7 +101,7 @@
     display: grid;
     grid-template-rows: 0.1fr 1.9fr;
     grid-auto-columns: 1fr;
-    gap: 0px 0px;
+    gap: 5px 5px;
     grid-auto-flow: row;
 }
 
