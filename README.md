@@ -4,4 +4,7 @@ This is a forked and edited website from https://github.com/sakshamgorey/classes
 
 For SYCSE: krishsavani.github.io/classesandlinksv2/
 
+active branch is masterv1
+
+
 
